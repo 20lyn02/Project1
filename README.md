@@ -9,7 +9,7 @@ This project was based on the INSEAD case Integration Planning at SFB (A), where
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Machine Learning</b>
+- <b>Supervised Machine Learning (Tree Based Models)</b>
 - <b>Excel Solver</b>
 - <b>Data Ethics & Fairness Assessment</b>
 
