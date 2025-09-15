@@ -1,4 +1,3 @@
-
 <h1>Workforce Restructuring with Predictive Analytics & Optimization</h1>
 
 <h2>Description</h2>
